@@ -21,12 +21,12 @@ console.log(typeof('javas script'));
 console.log(typeof('100'));
 
 let num  = 1;
-num = num += 11;
-num = num -= 11;
-num = num *= 11;
-num = num /= 11;
-num = num ++;
-num = num --;
+num += 11;
+num -= 11;
+num *= 11;
+num /= 11;
+num ++;
+num --;
 console.log(num);
 
 //Завдання на введення/виведення:
